@@ -1,2 +1,2 @@
 DSA
-practice
+practice.
